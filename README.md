@@ -15,9 +15,11 @@
 
 ###
 
-<h1 align="center">Bem vindo ao meu perfil 👋</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=C792EA&width=435&lines=Bem+vindo+ao+meu+perfil+%F0%9F%91%8B" alt="Typing SVG" /></a>
+</div>
 
-###
+##
 
 <h3 align="left">👩‍💻  Sobre mim</h3>
 
@@ -26,7 +28,6 @@
 <p align="left">- 🔄️ Em transição de carreira<br>- 📚 Atualmente estudando na EBAC para ser dev front-end</p>
 
 ###
-</br>
 
 <h3 align="left">🛠 Linguagens e ferramentas</h3>
 
@@ -61,7 +62,6 @@
 </div>
 
 ###
-</br>
 
 <h3 align="left">🔥   Stats</h3>
 
