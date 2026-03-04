@@ -28,7 +28,7 @@
 <p align="left">
   - 👤 Sou a Leticia, tenho 27 anos e sou de Cotia, São Paulo<br>
   - 🔄️ Estou em transição de carreira<br>
-  - 🎓 Sou enóloga (sim, isso existe), formada em Viticultura e Enologia 🍇🍷🍾 e trabalhei por 6 anos na área<br>
+  - 🎓 Sou enóloga, formada em Viticultura e Enologia 🍇🍷🍾 e trabalhei por 6 anos na área<br>
   - ✨️ O interesse em TI surgiu pelo contato com amigos que atuam na área e na busca de um trabalho mais valorizado e com oportunidade de crescimento<br>
   - 💻 Ano passado comecei um curso fullstack pela EBAC, no qual concluí apenas a parte de front-end e me apaixonei<br>
   - 📖 Atualmente estudando Web Desing na FIAP
