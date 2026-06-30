@@ -72,37 +72,5 @@
           
 </div>
 
-###
 
-<h3 align="left">🔥   Stats</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Magialis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Magialis&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=material-palenight&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Magialis/Magialis/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Magialis/Magialis/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Magialis/Magialis/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<h3 align="left">📐   Projetos</h3>
-
-###
-
-<div>
-  <a href="https://github.com/Magialis/parcel-evento-ebac">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Magialis&repo=parcel-evento-ebac&theme=material-palenight"/>
-  </a>
-  <a href="https://github.com/Magialis/confeitaria-projeto3-ebac">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Magialis&repo=confeitaria-projeto3-ebac&theme=material-palenight"/>
-  </a>
-</div>
 
